@@ -1,6 +1,6 @@
 # No Lollygaggin'
 
-Every new visit you get a new line from our beloved Skyrim guards. You can even hear them if you want.\
+Every new visit you get a new line from our beloved Skyrim guards. You can even hear them if you want.
 
 Click to see another line if you're that lonely.
 
