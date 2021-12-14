@@ -87,7 +87,7 @@ function App() {
     { name: 'getaway', audio: new Audio(getaway_a) },
     { name: 'gooddog', audio: new Audio(gooddog_a) },
     { name: 'gottothinking', audio: new Audio(gottothinking_a) },
-    { name: 'guarduty', audio: new Audio(guardduty_a) },
+    { name: 'guardduty', audio: new Audio(guardduty_a) },
     { name: 'hailsithis', audio: new Audio(hailsithis_a) },
     { name: 'ironsword', audio: new Audio(ironsword_a) },
     { name: 'kinsman', audio: new Audio(kinsman_a) },
